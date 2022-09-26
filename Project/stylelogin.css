@@ -1,0 +1,33 @@
+
+body
+{
+    border: 2px rgb(247, 240, 240) solid;
+    padding: 20px;
+    margin: 50px;
+    
+}
+h1,h3,li,h4,h5
+{
+    display: flex;
+    justify-content: center;
+}
+
+.logoimage{
+    
+    display: flex;
+justify-content: center;
+}
+
+.btn
+{
+    background-color: rgb(94, 221, 105);
+    border-radius: 20px;
+    width: 25%;
+    padding: 10px;
+    font-weight: bolder;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
